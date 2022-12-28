@@ -40,6 +40,9 @@
     right: 65px;
     top: 20px;
     height: 300px;
+    filter: brightness(100%);
+   filter: contrast(100%);
+   filter: drop-shadow(10px 10px 10px rgb(207, 223, 207));
 }
 .photo-container .photo-album{
     background-color: white;
