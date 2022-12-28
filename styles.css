@@ -10,7 +10,7 @@
     width: 100%;
     height: 100vh;
 }
-.product .product-photo{
+.product .product__photo{
     width: 20px;
     height: 60px;
     position: absolute;
